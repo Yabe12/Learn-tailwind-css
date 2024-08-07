@@ -38,14 +38,59 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
 
+    ```bash
+    git clone https://github.com/Yabe12/portfolio-website.git
+    ```
 
+2. Navigate to the project directory:
 
-## Navigate to the project directory:cd portfolio-website
+    ```bash
+    cd portfolio-website
+    ```
+
 ## Usage
-Open the index.html file in your web browser to view the portfolio website.Project Structureportfolio-website/
-├── index.html
-└── tailwind.cssSections Included
-HeaderNavigation links to different sections of the pageWebsite title or logoHero SectionBrief introductionCall-to-action buttonAbout SectionPersonal information or bioProjects SectionShowcase of completed projects with descriptions and linksContact SectionContact form for visitors to reach outFooterCopyright informationContributingContributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.Fork the ProjectCreate your Feature Branch (git checkout -b feature/AmazingFeature)Commit your Changes (git commit -m 'Add some AmazingFeature')Push to the Branch (git push origin feature/AmazingFeature)Open a Pull RequestLicenseDistributed under the MIT License. See LICENSE for more information.Created by Yeabsira Behailu
 
-```bash
-git clone https://github.com/Yabe12/portfolio-website.git
+Open the `index.html` file in your web browser to view the portfolio website.
+
+## Project Structure
+portfolio-website/ ├── index.html └── tailwind.css
+
+### Sections Included
+
+1. **Header**
+   - Navigation links to different sections of the page
+   - Website title or logo
+
+2. **Hero Section**
+   - Brief introduction
+   - Call-to-action button
+
+3. **About Section**
+   - Personal information or bio
+
+4. **Projects Section**
+   - Showcase of completed projects with descriptions and links
+
+5. **Contact Section**
+   - Contact form for visitors to reach out
+
+6. **Footer**
+   - Copyright information
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+**Created by [Yeabsira Behailu](https://github.com/Yabe12)**
