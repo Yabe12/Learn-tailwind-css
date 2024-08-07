@@ -37,11 +37,15 @@ You can see a live demo of the portfolio [here](#).
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
-```bash
-git clone https://github.com/Yabe12/portfolio-website.git
-Navigate to the project directory:cd portfolio-websiteUsageOpen the index.html file in your web browser to view the portfolio website.Project Structureportfolio-website/
+
+
+
+## Navigate to the project directory:cd portfolio-website
+## Usage
+Open the index.html file in your web browser to view the portfolio website.Project Structureportfolio-website/
 ├── index.html
-└── tailwind.cssSections IncludedHeaderNavigation links to different sections of the pageWebsite title or logoHero SectionBrief introductionCall-to-action buttonAbout SectionPersonal information or bioProjects SectionShowcase of completed projects with descriptions and linksContact SectionContact form for visitors to reach outFooterCopyright informationContributingContributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.Fork the ProjectCreate your Feature Branch (git checkout -b feature/AmazingFeature)Commit your Changes (git commit -m 'Add some AmazingFeature')Push to the Branch (git push origin feature/AmazingFeature)Open a Pull RequestLicenseDistributed under the MIT License. See LICENSE for more information.Created by Yeabsira Behailu
+└── tailwind.cssSections Included
+HeaderNavigation links to different sections of the pageWebsite title or logoHero SectionBrief introductionCall-to-action buttonAbout SectionPersonal information or bioProjects SectionShowcase of completed projects with descriptions and linksContact SectionContact form for visitors to reach outFooterCopyright informationContributingContributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.Fork the ProjectCreate your Feature Branch (git checkout -b feature/AmazingFeature)Commit your Changes (git commit -m 'Add some AmazingFeature')Push to the Branch (git push origin feature/AmazingFeature)Open a Pull RequestLicenseDistributed under the MIT License. See LICENSE for more information.Created by Yeabsira Behailu
 
 ```bash
 git clone https://github.com/Yabe12/portfolio-website.git
